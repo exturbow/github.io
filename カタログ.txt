@@ -1,8 +1,10 @@
-＜プレイ中＞
+＜プレイ中(部分的に搭載)＞
 GENRE SHUFFLE 2
 WW_battle
 東方音弾遊戯 4
 Easy Motion
+東方音弾遊戯 2
+その他発狂難易度の一部(曲数増えたら消すかも)
 
 ＜搭載完了＞
 Mutual Faith 3
