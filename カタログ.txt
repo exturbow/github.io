@@ -3,7 +3,6 @@
 ＜プレイ中(部分的に搭載)＞
 東方音弾遊戯 4
 Easy Motion
-Mutual Faith
 Portable Memories March -BMS Edition-
 BOFXVI
 BMSをたくさん作るぜ'20
@@ -13,6 +12,8 @@ BMSをたくさん作るぜ'20
 ＜搭載完了(A→Z)＞
 GENRE SHUFFLE 2
 HYPER SELF REMIX -RE:UNION-
+
+Mutual Faith
 Mutual Faith 3
 WORLD WAR - BATTLE ROYALE IN ALL REGIONS
 ゆるゆる Vol.1～10
