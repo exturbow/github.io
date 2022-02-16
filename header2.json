@@ -4,5 +4,15 @@
 "data_url" : "https://script.google.com/macros/s/AKfycbzSeaCcutx7Ovm00dw6k38xKoMw8tP5T3Ftzb08Pg/exec",
   "level_order": ["3","4","5","6","7","8","9","10", "†"]
   
-
+"course":[
+	[
+		{
+			"name":"卒業試験裏",
+			"constraint":["grade_mirror"],
+			"md5":[
+				"4ff0c8a2f63ff9f002709ea7c3e81275",
+				"06a51730139a195af05b65962ada2f60",
+				"fe552b03943f004e8d509309dbf9ece4",
+				"b08f18bb57f68c8e44da738adeadeaa6"
+			]
 }
