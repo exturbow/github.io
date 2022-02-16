@@ -15,7 +15,17 @@
     "観","審"
 
 
-
+"course":[
+	[
+		{
+			"name":"BMS図書館 卒業試験裏",
+			"constraint":["grade_mirror"],
+			"md5":[
+				"4ff0c8a2f63ff9f002709ea7c3e81275",
+				"06a51730139a195af05b65962ada2f60",
+				"fe552b03943f004e8d509309dbf9ece4",
+				"b08f18bb57f68c8e44da738adeadeaa6"
+			]
   ]
 
 }
