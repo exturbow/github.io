@@ -1,4 +1,4 @@
-﻿{
+{
 "name" : "BMS図書館",
 "symbol" : "T",
 "data_url" : "https://script.google.com/macros/s/AKfycbyH8DsqUdNVLfM18M9ZGLW-ykppEvt_ZtDmcHgBMRsbGv_DFU1r/exec",
@@ -13,9 +13,9 @@
     "長e","長n","長h",              
     "?","!?",
     "観","審"
-],
+ ],
 
-"course":[
+ "course":[
 
 			"name":"BMS図書館 卒業試験裏",
 			"constraint":["grade_mirror"],
