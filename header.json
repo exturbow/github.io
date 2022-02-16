@@ -13,11 +13,10 @@
     "長e","長n","長h",              
     "?","!?",
     "観","審"
-
+]
 
 "course":[
-	[
-		{
+
 			"name":"BMS図書館 卒業試験裏",
 			"constraint":["grade_mirror"],
 			"md5":[
@@ -26,6 +25,6 @@
 				"fe552b03943f004e8d509309dbf9ece4",
 				"b08f18bb57f68c8e44da738adeadeaa6"
 			]
-  ]
+        ]
 
 }
