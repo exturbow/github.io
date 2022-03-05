@@ -2,5 +2,23 @@
 "name" : "段位認定仮",
 "symbol" : "O",
 "data_url" : "https://script.google.com/macros/s/AKfycbzSeaCcutx7Ovm00dw6k38xKoMw8tP5T3Ftzb08Pg/exec",
-  "level_order": ["3","4","5","6","7","8","9","10", "†"]
+  "level_order": ["3","4","5","6","7","8","9","10", "†"],
+  
+"course":
+    [ // コース全体を囲む括弧//
+
+        {
+            "name": "第5期 PMS段位認定 3級",
+            "constraint": ["grade_mirror","gauge_lr2"],
+            "md5": ["dbe48c3617f79c98ca45ba65fd7ab0ea","0b18bfaf473f5213318e4ed80af5cad5","56c60f22136a44877e57598b2382c89b","daa9b82aec369c0fbf72343f14004d35"]
+        },
+
+
+
+        {
+            "name": "第5期 PMS Undefined",
+            "constraint": ["grade_mirror","gauge_lr2"],
+            "md5": ["f3b195303e4a5e15a9e176d0a39f7c57","007807392f1f8cefb730cf29eda1ac6b","e024332406e5401d714f776beea4d84e","04d9140dbcf0475833f88b816f55356a","25802ac944e3c4d77553b267aad9d9dd"]
+        }
+    ] // コース全体を囲む括弧閉じ
 }
