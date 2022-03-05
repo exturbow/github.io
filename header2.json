@@ -11,9 +11,9 @@
     "観","審"
  ],"course":
 [
-{"name":"1","constraint":["grade_random","gauge_lr2",""],"md5": ["90dfcb3cb5e36ca155c1fcd157063ca4","6bc18f715229394f8687e7c92434edd7","c2d359b191ad471b38e3e2553409b4a0"]},
-{"name":"2","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["671a4239ac28bf85e0dc8aac0261db8d","9c8d43b0800a22092b00655455895a42","bc5a284f07a0ba477f35cb51808007e7","4ca8871345e2879a9add1053aeec7094"]},
-{"name":"3","constraint":["grade_mirror","gauge_lr2","ln",""],"md5": ["e86648a958817615f3883fb12dbe8a54","b51fe806350f78d03d8dc96d1d058188","bea09a3c942e4118bc626924b16ed7bd","b9d10fae126860b2c23518b8c0b84214"]},
+{"name":"1","constraint":["grade_mirror","gauge_lr2"],"md5": ["90dfcb3cb5e36ca155c1fcd157063ca4","6bc18f715229394f8687e7c92434edd7","c2d359b191ad471b38e3e2553409b4a0"]},
+{"name":"2","constraint":["grade_mirror","gauge_lr2"],"md5": ["671a4239ac28bf85e0dc8aac0261db8d","9c8d43b0800a22092b00655455895a42","bc5a284f07a0ba477f35cb51808007e7","4ca8871345e2879a9add1053aeec7094"]},
+{"name":"3","constraint":["grade_mirror","gauge_lr2"],"md5": ["e86648a958817615f3883fb12dbe8a54","b51fe806350f78d03d8dc96d1d058188","bea09a3c942e4118bc626924b16ed7bd","b9d10fae126860b2c23518b8c0b84214"]}
 
 
 ]}
